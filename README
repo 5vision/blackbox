@@ -1,0 +1,8 @@
+Our soulution to blackbox challenge (http://blackboxchallenge.com/)
+
+Solution consists of 5 models trained (3 linear regressions and 2 neural networks) trained with Q-learning algorithm and online learning for regression 1.
+Full description of solution in file solution.pdf
+
+
+
+
